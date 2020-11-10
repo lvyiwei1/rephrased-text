@@ -1,0 +1,5 @@
+Add a brown cube at the center
+Add a purple cube in front of it on the right
+Add a yellow cube behind it on the left and behind the brown cube on the right
+Add a green cube in front of it on the left and behind the purple cube on the left
+Add a blue cube behind it on the right and behind the brown cube on the right

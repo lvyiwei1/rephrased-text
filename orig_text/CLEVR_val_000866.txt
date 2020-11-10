@@ -1,0 +1,5 @@
+Add a yellow cylinder at the center
+Add a blue cylinder behind it on the left
+Add a cyan cylinder in front of it on the right and on the right of the yellow cylinder
+Add a gray sphere behind it on the left and in front of the blue cylinder on the left
+Add a gray cylinder in front of the cyan cylinder on the left and in front of the blue cylinder on the right

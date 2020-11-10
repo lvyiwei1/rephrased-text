@@ -1,0 +1,5 @@
+Add a gray cube at the center
+Add a green cylinder in front of it
+Add a green cube behind it on the right and behind the gray cube on the right
+Add a gray cylinder behind the green cylinder on the right and behind the gray cube on the right
+Add a blue sphere in front of the green cube on the left and behind the green cylinder on the left
