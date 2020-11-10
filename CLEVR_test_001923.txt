@@ -1,0 +1,5 @@
+Add a brown cube at the center
+A gray sphere needs to be added on the left and in front of brown cube
+A cyan sphere needs to be added such that the gray sphere is on the left and in front of the cyan sphere and the brown cube is on the left and in front of the cyan sphere
+Add a yellow cube on the right and in front of cyan sphere and on the right and behind the gray sphere
+A purple sphere needs to be added such that the gray sphere is on the right and in front of the purple sphere and the brown cube is on the right and in front of the purple sphere

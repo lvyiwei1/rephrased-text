@@ -1,0 +1,5 @@
+A yellow cube needs to be added at the center
+A gray cube needs to be added on the right and behind yellow cube
+Add a cyan cylinder on the left and in front of gray cube and on the left and in front of the yellow cube
+Add a purple cube in front of the gray cube on the right and in front of the yellow cube on the right
+Add a blue cylinder behind it on the left and in front of the yellow cube on the left

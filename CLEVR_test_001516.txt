@@ -1,0 +1,5 @@
+A green sphere needs to be added at the center
+Add a cyan cube on the left and behind green sphere
+Add a blue cylinder such that the cyan cube is on the right and behind the blue cylinder and the green sphere is on the right and behind the blue cylinder
+A blue sphere needs to be added such that the blue cylinder is on the left and behind the blue sphere and the cyan cube is on the left and behind the blue sphere
+Add a gray cube on the right and behind blue sphere and on the right and in front of the cyan cube

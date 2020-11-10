@@ -1,0 +1,5 @@
+Add a purple cylinder at the center
+A red cube needs to be added on the right and behind purple cylinder
+A green sphere needs to be added such that the red cube is on the right and behind the green sphere and the purple cylinder is on the left and behind the green sphere
+Add a yellow sphere on the left and behind green sphere and on the left and behind the purple cylinder
+Add a yellow cube on the left and behind the green sphere and on the left and behind the purple cylinder

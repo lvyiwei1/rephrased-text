@@ -1,0 +1,5 @@
+Add a red cylinder at the center
+A green cylinder needs to be added on the left and behind red cylinder
+A gray cylinder needs to be added such that the green cylinder is on the right and behind the gray cylinder and the red cylinder is on the right and behind the gray cylinder
+A gray cube needs to be added such that the gray cylinder is on the left and in front of the gray cube and the red cylinder is on the left and behind the gray cube
+Add a red cube such that the gray cube is on the right and behind the red cube and the red cylinder is on the left and behind the red cube
